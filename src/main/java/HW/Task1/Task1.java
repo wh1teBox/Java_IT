@@ -1,4 +1,4 @@
-package HW_1;
+package HW.Task1;
 
 public class Task1 {
     /**
