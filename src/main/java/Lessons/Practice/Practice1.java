@@ -1,4 +1,4 @@
-package Lessons.lesson1.Practice;
+package Lessons.Practice;
 
 public class Practice1 {
     public static void main(String[] args) {
