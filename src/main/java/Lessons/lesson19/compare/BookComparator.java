@@ -1,4 +1,4 @@
-package org.itstep.lesson19.compare;
+package Lessons.lesson19.compare;
 
 import java.util.Comparator;
 

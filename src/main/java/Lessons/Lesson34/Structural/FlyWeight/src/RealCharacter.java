@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Structural.FlyWeight.src;
+package Lessons.Lesson34.Structural.FlyWeight.src;
 
 class RealCharacter extends AbstractCharacter
 {

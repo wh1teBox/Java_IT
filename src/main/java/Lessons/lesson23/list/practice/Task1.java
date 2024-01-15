@@ -1,4 +1,4 @@
-package org.itstep.lesson23.list.practice;
+package Lessons.lesson23.list.practice;
 
 import javax.swing.*;
 import java.util.ArrayList;

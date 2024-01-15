@@ -1,4 +1,4 @@
-package org.itstep.lesson14.developer;
+package Lessons.lesson14.developer;
 
 public class DeveloperMain {
     public static void main(String[] args) {

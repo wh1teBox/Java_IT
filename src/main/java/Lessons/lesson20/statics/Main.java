@@ -1,4 +1,4 @@
-package org.itstep.lesson20.statics;
+package Lessons.lesson20.statics;
 
 public class Main {
     public static void main(String[] args) {

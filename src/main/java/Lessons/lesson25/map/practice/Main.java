@@ -1,4 +1,4 @@
-package org.itstep.lesson25.map.practice;
+package Lessons.lesson25.map.practice;
 
 public class Main {
     //Завдання 3:

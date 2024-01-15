@@ -1,4 +1,4 @@
-package org.itstep.lesson21.cofee;
+package Lessons.lesson21.cofee;
 
 import java.util.Scanner;
 

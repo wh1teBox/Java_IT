@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Behavioral.Interpreter.src;
+package Lessons.Lesson34.Behavioral.Interpreter.src;
 
 public class NonterminalExpression implements BaseExpression{
 

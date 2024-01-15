@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Behavioral.Iterator.src;
+package Lessons.Lesson34.Behavioral.Iterator.src;
 
 public class Cities implements Container {
    public String namesOfCities[] = {"Paris" , "London" ,"Tokyo" , "New York", "Amsterdam"};

@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.MyPatterns.Singleton;
+package Lessons.Lesson34.MyPatterns.Singleton;
 
 public class Run {
     public static void main(String[] args) {

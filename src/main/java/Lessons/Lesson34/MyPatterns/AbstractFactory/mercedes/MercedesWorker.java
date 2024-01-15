@@ -1,6 +1,6 @@
-package org.itstep.Lesson34.MyPatterns.AbstractFactory.mercedes;
+package Lessons.Lesson34.MyPatterns.AbstractFactory.mercedes;
 
-import org.itstep.Lesson34.MyPatterns.AbstractFactory.Worker;
+import Lessons.Lesson34.MyPatterns.AbstractFactory.Worker;
 
 public class MercedesWorker extends Worker {
 

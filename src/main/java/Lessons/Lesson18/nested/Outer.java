@@ -1,4 +1,4 @@
-package org.itstep.Lesson18.nested;
+package Lessons.Lesson18.nested;
 
 public class Outer {
     String outName;

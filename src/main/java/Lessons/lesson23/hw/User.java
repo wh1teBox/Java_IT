@@ -1,4 +1,4 @@
-package org.itstep.lesson23.hw;
+package Lessons.lesson23.hw;
 
 public class User {
     String login;

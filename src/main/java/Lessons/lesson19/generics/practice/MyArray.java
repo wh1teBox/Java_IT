@@ -1,4 +1,4 @@
-package org.itstep.lesson19.generics.practice;
+package Lessons.lesson19.generics.practice;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
@@ -41,7 +41,6 @@ public class MyArray<T extends Number> {
             arr[i] = clazz.cast(tmp);
         }
     }
-
 
     public void fillRandomArr() {
         Random random = new Random();
@@ -99,10 +98,7 @@ public class MyArray<T extends Number> {
         }
         return mas;
     }
-
-
 }
-
 
 class Main{
     public static void main(String[] args) {

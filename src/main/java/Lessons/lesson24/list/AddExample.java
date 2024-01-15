@@ -1,4 +1,4 @@
-package org.itstep.lesson24.list;
+package Lessons.lesson24.list;
 
 import java.util.Arrays;
 import java.util.Random;

@@ -1,6 +1,6 @@
-package org.itstep.Lesson34.MyPatterns.AbstractFactory;
+package Lessons.Lesson34.MyPatterns.AbstractFactory;
 
-import org.itstep.Lesson34.MyPatterns.AbstractFactory.mercedes.MercedesFactory;
+import Lessons.Lesson34.MyPatterns.AbstractFactory.mercedes.MercedesFactory;
 
 public class Run {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.itstep.lesson20;
+package Lessons.lesson20;
 
 import java.time.LocalDateTime;
 import java.time.LocalTime;

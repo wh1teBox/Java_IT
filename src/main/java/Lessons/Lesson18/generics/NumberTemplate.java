@@ -1,4 +1,4 @@
-package org.itstep.Lesson18.generics;
+package Lessons.Lesson18.generics;
 
 public class NumberTemplate <T extends Number>{
 

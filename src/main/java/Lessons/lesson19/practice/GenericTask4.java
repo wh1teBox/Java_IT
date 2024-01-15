@@ -1,4 +1,4 @@
-package org.itstep.lesson19.practice;
+package Lessons.lesson19.practice;
 
 public class GenericTask4 {
     //Завдання 4:

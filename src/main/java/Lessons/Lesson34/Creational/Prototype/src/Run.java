@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Creational.Prototype.src;
+package Lessons.Lesson34.Creational.Prototype.src;
 
 import java.util.Scanner;
 public class Run {

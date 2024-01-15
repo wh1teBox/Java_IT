@@ -1,6 +1,6 @@
-package org.itstep.Lesson34.MyPatterns.AbstractFactory.mercedes;
+package Lessons.Lesson34.MyPatterns.AbstractFactory.mercedes;
 
-import org.itstep.Lesson34.MyPatterns.AbstractFactory.Ingener;
+import Lessons.Lesson34.MyPatterns.AbstractFactory.Ingener;
 
 public class MercedesIgener extends Ingener {
     @Override

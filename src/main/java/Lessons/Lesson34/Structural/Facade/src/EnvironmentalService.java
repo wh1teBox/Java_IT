@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Structural.Facade.src;
+package Lessons.Lesson34.Structural.Facade.src;
 
 // �����, ���������� �� �������� ������������� ����� �������������
 class EnvironmentalService

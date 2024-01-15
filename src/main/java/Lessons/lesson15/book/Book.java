@@ -1,4 +1,4 @@
-package org.itstep.lesson15.book;
+package Lessons.lesson15.book;
 
 public class Book {
     private String name;

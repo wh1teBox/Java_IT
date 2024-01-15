@@ -1,4 +1,4 @@
-package org.itstep.lesson16.inherit;
+package Lessons.lesson16.inherit;
 
 public class Main {
     public static void main(String[] args) {

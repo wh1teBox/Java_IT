@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.MyPatterns.AbstractFactory;
+package Lessons.Lesson34.MyPatterns.AbstractFactory;
 
 public class ConfigCar {
 

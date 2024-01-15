@@ -1,4 +1,4 @@
-package org.itstep.lesson20.statics.practice;
+package Lessons.lesson20.statics.practice;
 
 public class StaticTask2 {
     //Завдання 2:

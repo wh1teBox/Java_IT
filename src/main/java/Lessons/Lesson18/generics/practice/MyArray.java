@@ -1,4 +1,4 @@
-package org.itstep.Lesson18.generics.practice;
+package Lessons.Lesson18.generics.practice;
 
 import java.util.Random;
 import java.util.Scanner;

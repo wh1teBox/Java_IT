@@ -1,4 +1,4 @@
-package org.itstep.lesson21.records;
+package Lessons.lesson21.records;
 
 public class Application {
 

@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Behavioral.Strategy.src;
+package Lessons.Lesson34.Behavioral.Strategy.src;
 
 // ���������� ����� ���������. ��� ���������� �����
 class PopStyleOfMusic implements StyleOfMusic

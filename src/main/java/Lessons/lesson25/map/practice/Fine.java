@@ -1,4 +1,4 @@
-package org.itstep.lesson25.map.practice;
+package Lessons.lesson25.map.practice;
 
 import java.util.HashMap;
 import java.util.Map;

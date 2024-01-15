@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Structural.Composite.src;
+package Lessons.Lesson34.Structural.Composite.src;
 
 class TwinTubeShip implements Unit
 {

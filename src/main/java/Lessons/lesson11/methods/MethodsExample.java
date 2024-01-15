@@ -1,4 +1,4 @@
-package org.itstep.lesson11.methods;
+package Lessons.lesson11.methods;
 
 import static java.lang.Math.*;
 

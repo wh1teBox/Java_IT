@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Behavioral.State.src;
+package Lessons.Lesson34.Behavioral.State.src;
 
 class StateA implements BaseState
 {

@@ -1,4 +1,4 @@
-package org.itstep.lesson15.car;
+package Lessons.lesson15.car;
 
 public class Main {
     public static void main(String[] args) {

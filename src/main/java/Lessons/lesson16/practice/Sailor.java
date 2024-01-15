@@ -1,4 +1,4 @@
-package org.itstep.lesson16.practice;
+package Lessons.lesson16.practice;
 
 public class Sailor extends Human {
     String shipName;

@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Structural.Bridge.src;
+package Lessons.Lesson34.Structural.Bridge.src;
 
 public class Run {
 

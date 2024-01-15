@@ -1,4 +1,4 @@
-package org.itstep.lesson20.reflection;
+package Lessons.lesson20.reflection;
 
 public class Animal {
     private String name;

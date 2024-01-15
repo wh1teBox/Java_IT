@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.MyPatterns.Builder;
+package Lessons.Lesson34.MyPatterns.Builder;
 
 public class CarBuilder {
     String carName;

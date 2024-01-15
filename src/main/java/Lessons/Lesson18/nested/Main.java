@@ -1,4 +1,4 @@
-package org.itstep.Lesson18.nested;
+package Lessons.Lesson18.nested;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.itstep.lesson24.set.practice;
+package Lessons.lesson24.set.practice;
 
 import java.util.ArrayList;
 import java.util.HashSet;

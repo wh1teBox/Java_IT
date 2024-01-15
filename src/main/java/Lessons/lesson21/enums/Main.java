@@ -1,4 +1,4 @@
-package org.itstep.lesson21.enums;
+package Lessons.lesson21.enums;
 
 import java.util.Comparator;
 

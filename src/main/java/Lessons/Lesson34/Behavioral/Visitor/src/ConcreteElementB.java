@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Behavioral.Visitor.src;
+package Lessons.Lesson34.Behavioral.Visitor.src;
 
 public class ConcreteElementB implements Element{
 

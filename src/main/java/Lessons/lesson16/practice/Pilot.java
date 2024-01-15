@@ -1,4 +1,4 @@
-package org.itstep.lesson16.practice;
+package Lessons.lesson16.practice;
 
 public class Pilot extends Human{
     String plane;

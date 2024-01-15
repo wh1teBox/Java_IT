@@ -1,4 +1,4 @@
-package org.itstep.lesson19.generics;
+package Lessons.lesson19.generics;
 
 public class Book<T> {
     String name;

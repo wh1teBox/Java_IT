@@ -1,4 +1,4 @@
-package org.itstep.lesson14.developer;
+package Lessons.lesson14.developer;
 
 //шаблон для створення об'єкту
 public class Developer {

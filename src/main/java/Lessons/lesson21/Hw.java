@@ -1,4 +1,4 @@
-//package org.itstep.lesson21;
+//package Lessons.lesson21;
 //
 //import org.openqa.selenium.OutputType;
 //import org.openqa.selenium.TakesScreenshot;

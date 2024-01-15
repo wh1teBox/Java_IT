@@ -1,4 +1,4 @@
-package org.itstep.lesson23.hw;
+package Lessons.lesson23.hw;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.itstep.lesson19;
+package Lessons.lesson19;
 
 public class Test {
     public static void main(String[] args) {

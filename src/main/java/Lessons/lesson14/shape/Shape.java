@@ -1,4 +1,4 @@
-package org.itstep.lesson14.shape;
+package Lessons.lesson14.shape;
 
 public class Shape {
     int x;

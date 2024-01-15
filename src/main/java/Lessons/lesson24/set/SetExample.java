@@ -1,4 +1,4 @@
-package org.itstep.lesson24.set;
+package Lessons.lesson24.set;
 
 import java.util.*;
 

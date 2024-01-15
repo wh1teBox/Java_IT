@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Creational.Singleton.src;
+package Lessons.Lesson34.Creational.Singleton.src;
 
 import java.io.*;
 import java.time.LocalDateTime;

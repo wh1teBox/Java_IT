@@ -1,4 +1,4 @@
-package org.itstep.lesson25.map;
+package Lessons.lesson25.map;
 
 
 import java.util.*;

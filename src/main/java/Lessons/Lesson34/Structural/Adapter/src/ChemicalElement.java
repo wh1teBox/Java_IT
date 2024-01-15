@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Structural.Adapter.src;
+package Lessons.Lesson34.Structural.Adapter.src;
 
 // Target
 class ChemicalElement

@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.MyPatterns.Singleton;
+package Lessons.Lesson34.MyPatterns.Singleton;
 
 import javax.management.DescriptorRead;
 

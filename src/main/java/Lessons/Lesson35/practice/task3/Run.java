@@ -1,8 +1,8 @@
-package org.itstep.Lesson35.practice.task3;
+package Lessons.Lesson35.practice.task3;
 
 import java.util.List;
 
-import static org.itstep.Lesson35.practice.task3.Data.fillRandom;
+import static Lessons.Lesson35.practice.task3.Data.fillRandom;
 
 public class Run {
     //Задание 3

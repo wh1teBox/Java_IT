@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Behavioral.Command.src;
+package Lessons.Lesson34.Behavioral.Command.src;
 
 // ����� Receiver ����� ����������
 class TV

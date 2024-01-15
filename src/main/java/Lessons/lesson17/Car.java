@@ -1,4 +1,4 @@
-package org.itstep.lesson17;
+package Lessons.lesson17;
 
 public class Car extends Vehicle {
 

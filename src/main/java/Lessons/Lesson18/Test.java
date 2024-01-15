@@ -1,4 +1,4 @@
-package org.itstep.Lesson18;
+package Lessons.Lesson18;
 
 public class Test {
     //super. та super()

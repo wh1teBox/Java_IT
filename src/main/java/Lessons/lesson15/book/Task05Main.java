@@ -1,4 +1,4 @@
-package org.itstep.lesson15.book;
+package Lessons.lesson15.book;
 
 public class Task05Main {
     //Завдання 5: Реалізуйте клас «Книга». Збережіть у полях класу:

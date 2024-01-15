@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Structural.Proxy.src;
+package Lessons.Lesson34.Structural.Proxy.src;
 
 interface IMathematics {
 	double Addition(double x, double y);

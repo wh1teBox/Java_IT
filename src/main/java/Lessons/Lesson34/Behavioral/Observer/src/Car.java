@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Behavioral.Observer.src;
+package Lessons.Lesson34.Behavioral.Observer.src;
 
 // ����� ConcreteSubject
 // ����� ����������� ��������

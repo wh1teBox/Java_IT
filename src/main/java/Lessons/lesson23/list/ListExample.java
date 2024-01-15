@@ -1,4 +1,4 @@
-package org.itstep.lesson23.list;
+package Lessons.lesson23.list;
 
 import java.lang.reflect.Array;
 import java.util.*;

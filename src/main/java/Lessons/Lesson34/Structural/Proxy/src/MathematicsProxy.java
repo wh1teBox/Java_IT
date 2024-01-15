@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Structural.Proxy.src;
+package Lessons.Lesson34.Structural.Proxy.src;
 
 import java.util.HashSet;
 import java.util.Set;

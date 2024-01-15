@@ -1,4 +1,4 @@
-package org.itstep.lesson16.practice;
+package Lessons.lesson16.practice;
 
 public class HumanMain {
     //Завдання 1: Створіть клас Human, який міститиме інформацію про людину.

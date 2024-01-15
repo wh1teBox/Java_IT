@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Behavioral.TemplateMethod.src;
+package Lessons.Lesson34.Behavioral.TemplateMethod.src;
 
 abstract class Device
 {

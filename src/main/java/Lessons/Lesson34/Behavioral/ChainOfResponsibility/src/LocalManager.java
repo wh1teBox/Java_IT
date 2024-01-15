@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Behavioral.ChainOfResponsibility.src;
+package Lessons.Lesson34.Behavioral.ChainOfResponsibility.src;
 
 class LocalManager extends Manager
 {

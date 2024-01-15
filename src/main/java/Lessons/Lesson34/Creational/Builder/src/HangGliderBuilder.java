@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Creational.Builder.src;
+package Lessons.Lesson34.Creational.Builder.src;
 
 class HangGliderBuilder extends AircraftBuilder
 {

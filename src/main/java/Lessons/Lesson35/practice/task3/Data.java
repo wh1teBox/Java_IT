@@ -1,4 +1,4 @@
-package org.itstep.Lesson35.practice.task3;
+package Lessons.Lesson35.practice.task3;
 
 import java.util.ArrayList;
 import java.util.List;

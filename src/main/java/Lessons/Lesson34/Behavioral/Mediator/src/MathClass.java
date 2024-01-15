@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Behavioral.Mediator.src;
+package Lessons.Lesson34.Behavioral.Mediator.src;
 
 class MathClass extends Trainee
 {

@@ -1,4 +1,4 @@
-package org.itstep.Lesson34.Structural.Decorator.src;
+package Lessons.Lesson34.Structural.Decorator.src;
 
 import java.util.Iterator;
 import java.util.Vector;

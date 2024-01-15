@@ -1,4 +1,4 @@
-package org.itstep.lesson15.practice;
+package Lessons.lesson15.practice;
 
 public class Main {
     //Завдання 3

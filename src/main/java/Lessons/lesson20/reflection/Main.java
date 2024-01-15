@@ -1,6 +1,4 @@
-package org.itstep.lesson20.reflection;
-
-
+package Lessons.lesson20.reflection;
 
 import java.lang.reflect.*;
 import java.util.List;
